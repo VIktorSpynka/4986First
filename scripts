@@ -1,5 +1,5 @@
 #!/bin/bash
-echo 'The practise started"
+echo 'The practise started'
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
